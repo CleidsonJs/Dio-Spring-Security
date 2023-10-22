@@ -20,4 +20,4 @@ public class WelcomeController {
     public String managers() {
         return "Authorized manager";
     }
-} 
+}
